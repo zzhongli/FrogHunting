@@ -4,7 +4,6 @@ public class Main {
         Game game1 = new Game();
         game1.startGame();
 
-
         System.out.println("Hello world!");
 
     }
