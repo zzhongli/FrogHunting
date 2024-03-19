@@ -8,5 +8,5 @@ Rainbow Piano is Java Project to let user play quiz. Users are able to play quiz
 ## How to use
 
 #### Play Game
-* Clicking each button find a green block .
+* Clicking each button find a green block.
 
