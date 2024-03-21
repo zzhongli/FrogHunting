@@ -5,7 +5,6 @@ import java.util.random.RandomGenerator;
 import javax.swing.JOptionPane;
 
 
-
 public class Game extends JFrame implements ActionListener {
     private JFrame frame;
     private JPanel buttonMatrixPanel = new JPanel();
